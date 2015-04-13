@@ -1,0 +1,7 @@
+NAME,KINDS,QUANTITY,WIDTH,HEIGHT,SIDE 1 COLORS,SIDE 2 COLORS,CONTENT,PRODUCT GROUP,COMPANY,FIRST NAME,FAMILY NAME,DESCRIPTION,NOTES,DUE DATE,GRAIN,TOP OFFCUT,LEFT OFFCUT,BOTTOM OFFCUT,RIGHT OFFCUT,PRIORITY,SIDE 1 FOLIO,SIDE 2 FOLIO
+21943,1,500,3.5,2,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Business Card 01_inches.pdf,Gloss Coating,LithoTechnics,Rohan,Holt,Description,Notes,13-Dec-13,Either,0,0,0,0,5,Front,Back
+21944,1,500,3.5,2.5,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Business Card 02_inches.pdf,Gloss Coating,LithoTechnics,Davo,Laninga,Description,Notes,13-Dec-13,Either,0,0,0,0,5,Front,Back
+21945,1,750,3.5,2.5,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Business Card 04_inches.pdf,Gloss Coating,LithoTechnics,Sonia,Ransom,Description,Notes,13-Dec-13,Either,0,0,0,0,5,Page 1,Page 2
+21946,1,500,2.5,3.5,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Business Card 05_inches.pdf,Gloss Coating,LithoTechnics,Kathy,Walenta,Description,Notes,13-Dec-13,Either,0,0,0,0,5,Page 1,Page 2
+21948,1,250,5.75,8.25,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Postcard 01_inches.pdf,Gloss Coating,LithoTechnics,Lisa,Chambers,Description,Notes,13-Dec-13,Either,0,0,0,0,5,F,B
+21949,1,500,4.125,5.75,"Cyan, Magenta, Yellow, Black","Cyan, Magenta, Yellow, Black",Postcard 02_inches.pdf,Gloss Coating,LithoTechnics,Philip,Glorian,Description,Notes,13-Dec-13,Either,0,0,0,0,5,Side 1,Side 2
